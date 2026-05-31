@@ -1,8 +1,6 @@
 
 
 # Projeto de Análise Exploratória da base de dados Varejo
-Mini-Projeto Avaliativo do Curso de Análise de Dados com Python oferecido por SCTEC
-
 
 ________________________________________
 ### 📑 Contextualização do mini-projeto
@@ -56,12 +54,12 @@ ________________________________________
 ```
 Projeto/
 │     
-├── Base Varejo_limpo.csv           # Dados limpos após tratamento
-├── Base Varejo.csv                 # Dados originais, sem tratamento
-├── compras_categoria_genero.png    # Gráfico gerado no projeto
-├── mini_projeto_avaliativo.py      # Código-fonte principal do projeto
-├── README.md                       # Documentação principal explicando o projeto
-├── XXXX                         # Biblioteca
+├── Base Varejo_limpo.csv             # Dados limpos após tratamento
+├── Base Varejo.csv                   # Dados originais, sem tratamento
+├── compras_categoria_genero.png      # Gráfico gerado no projeto
+├── mini_projeto_avaliativo.py        # Código-fonte principal do projeto
+├── README_BarbaraWdeOliveira_T2.md   # Documentação principal e completa explicando o projeto
+├── README.md                         # Documentação da tela principal do GitHub remetendo ao arquivo completo
 ```
 
 ________________________________________
@@ -178,9 +176,26 @@ ________________________________________
 
 ________________________________________
 ### ✨ Conclusões
+<p align="justify">A análise exploratória permitiu concluir pela predominância de compras de categorias recorrentes, sendo o maior volume em ordem decrescente de alimentos, higiene e limpeza. Disso se extrai que a base de dados é essencialmente contemplada por registros de consumo do dia a dia dos clientes.
+  
+Por sua vez, a análise por gênero evidenciou que a maior quantidade de compras registradas na base foram realizadas por mulheres.
 
+Da coluna CL_EC (estado civil) se extrai a predominância de clientes casados ou em união estável.
+
+<p align="justify">Outrossim, é possível deduzir da coluna CL_SEG (segmentação econômica) que os clientes casados da classe B representam os clientes com maior quantidade de registros na base.
 
 ________________________________________
 ### 🚀 Insights
 
+1. <p align="justify">Através do agrupamento foi possível verificar que a categoria de alimentos representa o maior volume de vendas nos dois gêneros;
+2. Embora ligeiramente superior o público feminino, o público masculino também representa grande volume de compras;
+3. <p align="justify">A estatística descritiva demonstra concentração de clientes sem filhos (moda = 0), contudo, a média de 1,14 indica que famílias maiores influenciam o resultado geral;
+4. <p align="justify">A transformação de dados em "não informado" foi a melhor decisão, demonstrando que representam uma pequena parcela da base, sem comprometer o resultado final.
 
+________________________________________
+### 👥 Contato
+Estou à disposição para dúvidas ou sugestões.
+
+_Mini-Projeto elaborado como atividade avaliativa do Curso de Análise de Dados com Python oferecido pela SCTEC em parceria com o SENAI._
+
+Jun/2026.
