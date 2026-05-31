@@ -1,7 +1,5 @@
 # Projeto de Análise Exploratória da Base de Dados Varejo
-**Mini-Projeto Avaliativo do Curso de Análise de Dados com Python oferecido por SCTEC**
 
----
 
 ## Contextualização do mini-projeto
 
@@ -15,4 +13,10 @@ A base de dados Varejo foi extraída da plataforma [Kaggle](https://www.kaggle.c
 
 ---
 
-Ver documentação completa em [README_BarbaraWdeOliveira_T2.md](README_BarbaraWdeOliveira_T2.md)
+Vide documentação completa em [README_BarbaraWdeOliveira_T2.md](README_BarbaraWdeOliveira_T2.md)
+
+---
+
+_Mini-Projeto elaborado como atividade avaliativa do Curso de Análise de Dados com Python oferecido pela SCTEC em parceria com o SENAI._
+
+Jun/2026.
